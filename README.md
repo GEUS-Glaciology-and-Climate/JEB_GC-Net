@@ -1,5 +1,8 @@
 # JEB_GC-Net
 
+# reading logger data
+the folder FORTRAN_read_CR10_CR10x contains the codes for reading logger data. This step outputs the files that comprise "*a.dat" should not be necessary to run
+
 # input data
 "*a.dat" files that are output from FORTRAN codes from raw data loggers data; mainly pre-CR1000 CR10 and CR10x logger data...
 
