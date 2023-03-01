@@ -1,5 +1,6 @@
 # FORTRAN and IDL processing scripts for the historical GC-Net data
-Author: Jason Box
+Author: Jason Box, Konrad Steffen
+
 Production date: 2001
 
 # reading logger data
