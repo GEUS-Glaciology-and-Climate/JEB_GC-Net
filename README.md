@@ -1,4 +1,6 @@
-# JEB_GC-Net
+# FORTRAN and IDL processing scripts for the historical GC-Net data
+Author: Jason Box
+Production date: 2001
 
 # reading logger data
 the folder FORTRAN_read_CR10_CR10x contains the codes for reading logger data. This step outputs the files that comprise "*a.dat" should not be necessary to run
